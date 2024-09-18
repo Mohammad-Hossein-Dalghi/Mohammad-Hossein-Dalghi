@@ -20,3 +20,14 @@ I'm a data scientist and trying to increase the performance of machine learning 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## my projects:
+
+⭐️ machine learning
+
+⭐️ Deep learning
+
+⭐️ Data sciense
+
+⭐️ modeling
