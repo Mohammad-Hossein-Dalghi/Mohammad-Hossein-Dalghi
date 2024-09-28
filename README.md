@@ -45,8 +45,8 @@
 <h2 align=center>⚡️ My Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Hossein-Dalghi&show_icons=true&theme=github_dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Hossein-Dalghi&layout=compact&theme=github_dark" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadHosseinDalghi&show_icons=true&theme=github_dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHosseinDalghi&layout=compact&theme=github_dark" height="100" alt="languages graph"  />
 </div>
 
 ---
