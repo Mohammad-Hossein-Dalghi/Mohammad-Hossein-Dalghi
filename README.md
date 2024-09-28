@@ -51,10 +51,13 @@
   <a href="https://www.linkedin.com/in/mohammad-hossein-dalghi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/mamasi_dl">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo"  />
+  <a href="mailto:mamasi_dl@yahoo.com?subject=Hello%20Mohammad%20Hossein!">
+    <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" height="35" alt="yahoo logo"  />
   </a>
-    <a href="mailto:mamasi.6638@gmail.com?subject=Hello%20Mohammad%20Hossein">
+  <a href="mailto:mamasi.6638@gmail.com?subject=Hello%20Mohammad%20Hossein!">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/mamasi_dl">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo"  />
   </a>
 </div>
