@@ -36,7 +36,21 @@
 
 ----
 
-<h2 align=center>⚡️ My activity</h2>
+<h2 align=center>⚡️ My Activity</h2>
 
-![Github Preview](https://github-readme-stats.vercel.app/api?username=Mohammad-Hossein-Dalghi&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Hossein-Dalghi&layout=compact&theme=github_dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Hossein-Dalghi&show_icons=true&theme=github_dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Hossein-Dalghi&layout=compact&theme=github_dark" height="150" alt="languages graph"  />
+</div>
+
+---
+
+<h2 align=center>📫 Contact Me</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" height="35" alt="yahoo logo"  />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo"  />
+</div>
+
