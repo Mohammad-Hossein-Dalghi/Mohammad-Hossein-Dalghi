@@ -1,16 +1,16 @@
 ## Hi There👋, I'm Mohammad Hossein! 
-👨🏻‍💻 I'm a data scientist and trying to increase the performance of machine learning and deep learning models.
-🎓 graduated 
+👨🏻‍💻 Junior data scientist and AI developer, Focus on Machine learning, Deep learning & Data science projects.
+
+🎓 Graduated with a degree in Business Management from Islamic Azad University North Tehran Branch.
+
+💭 Currently focused on advancing my expertise in Deep Learning and Data Analytics through professional development and hands-on projects.
 
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
 
 
-### About Me 👨🏻‍💻
 
-- 🤔 Data Analyst
-- 📚 Graduated from Tehran Shomal University
 - 💻 Open to work
 - 🌱 Learning Git & Github
 
