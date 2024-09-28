@@ -5,16 +5,11 @@
 
 💭 Currently focused on advancing my expertise in Deep Learning and Data Analytics through professional development and hands-on projects.
 
+----
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+🛠️ Tech Stack
 
 
-
-
-- 💻 Open to work
-- 🌱 Learning Git & Github
-
-<h2>🔧 &nbsp; Tech Stack</h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
