@@ -54,7 +54,7 @@
   <a href="https://t.me/mamasi_dl">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo"  />
   </a>
-    <a href="mamasi.6638@gmail.com">
+    <a href="mailto:mamasi.6638@gmail.com?subject=Hello%20Mohammad%20Hossein">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo"  />
   </a>
 </div>
