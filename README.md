@@ -1,8 +1,11 @@
-# Who Am I? 👨🏻‍💻
+## Hi There👋, I'm Mohammad Hossein! 
+👨🏻‍💻 I'm a data scientist and trying to increase the performance of machine learning and deep learning models.
+🎓 graduated 
+
+
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-## Hi There👋, my name is mohammad hossein dalghi 
-I'm a data scientist and trying to increase the performance of machine learning and deep learning models.
+
 
 ### About Me 👨🏻‍💻
 
