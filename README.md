@@ -30,6 +30,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ----
-### My activity ⚡️
+## ⚡️ My activity 
 ![Github Preview](https://github-readme-stats.vercel.app/api?username=Mohammad-Hossein-Dalghi&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Hossein-Dalghi&layout=compact&theme=github_dark)
